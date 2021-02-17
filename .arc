@@ -4,7 +4,7 @@ begin-app
 @static
 
 @http
-  post /gumroad/ping
+post /gumroad/ping
 
 
 @tables
